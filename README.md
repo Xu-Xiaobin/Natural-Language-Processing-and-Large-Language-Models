@@ -1,9 +1,9 @@
-# Neural Machine Translation: RNN vs. Transformer
+# Neural Machine Translation: RNN vs. Transformer  
 **Course:** Natural Language Processing and Large Language Models  
 **Project:** Midterm & Final Project - Chinese-English Machine Translation  
-**Student ID:** 250010120 
-**Name:** Xiaobin Xu 
-**Date:** December 28, 2025
+**Student ID:** 250010120  
+**Name:** Xiaobin Xu  
+**Date:** December 28, 2025  
 
 ---
 
