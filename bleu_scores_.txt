@@ -1,0 +1,21 @@
+Leaderboard (Beam=1)
+trans_layernorm_bs128_lr0.0001_d512	3.40
+rnn_general_bs128_lr0.001	0.73
+rnn_dot_bs128_lr0.001	0.71
+rnn_general_bs64_lr0.001	0.63
+rnn_dot_bs64_lr0.001	0.37
+trans_layernorm_bs64_lr0.0005_d256	0.02
+trans_layernorm_bs64_lr0.001_d512	0.02
+trans_rmsnorm_bs64_lr0.0005_d256	0.02
+trans_layernorm_bs64_lr0.0005_d512	0.00
+trans_layernorm_bs64_lr0.001_d256	0.00
+trans_rmsnorm_bs64_lr0.0005_d512	0.00
+
+Leaderboard (Beam=1)
+trans_layernorm_bs128_lr0.0001_d512	5.51
+
+Leaderboard (Beam=3)
+trans_layernorm_bs128_lr0.0001_d512	5.70
+
+Leaderboard (Beam=1)
+rnn_concat_bs512_lr0.001	0.81
